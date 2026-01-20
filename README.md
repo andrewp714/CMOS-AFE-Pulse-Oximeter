@@ -1,8 +1,6 @@
 # CMOS-AFE-Pulse-Oximeter
 Low-noise, low-power CMOS analog front-end for biomedical optical sensing, featuring a regulated-cascode TIA and full signal-chain simulation in Cadence Virtuoso.
 
-# CMOS Analog Front-End for Biomedical Optical Sensing
-
 ## Overview
 This project presents the design and simulation of a low-noise, low-power CMOS analog front-end (AFE) for biomedical optical sensing applications such as pulse oximetry. The AFE interfaces directly with a photodiode and operates under low-voltage (≈1 V) constraints.
 
